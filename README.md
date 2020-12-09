@@ -1,4 +1,4 @@
-This project is published on https://nikhilkharwal.github.io/weather-app/
+This project is published at https://nikhilkharwal.github.io/weather-app/
 
 
 
